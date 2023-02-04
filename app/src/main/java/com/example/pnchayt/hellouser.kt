@@ -31,7 +31,7 @@ class hellouser : AppCompatActivity() {
 //        Handler().postDelayed({
             binding.animation.playAnimation()
 
-            binding.animation.addAnimatorListener(object : Animator.AnimatorListener{
+            binding.animation.addAnimatorListener(object : Animator.AnimatorListener{ // ADDED to check
                 override fun onAnimationStart(animation: Animator?) {
 
                     binding.namemail.text = "Logging in as:-"+" "+email
