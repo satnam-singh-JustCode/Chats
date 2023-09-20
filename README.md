@@ -34,6 +34,26 @@ JWT Authorization: JWTs are used for authorization, providing a secure mechanism
 Firebase Security Rules: Firebase security rules are implemented to ensure that only authenticated users can read and write data, enhancing the overall security of the application.
 
 
+## Demo
+```https://www.linkedin.com/posts/satnam-singh-justcode_lottie-androiddeveloper-androiddevelopment-activity-6894943561654374400-FEda/```
+
+
+
+
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
+
+
+## Features
+
+- dark mode
+- End to End Encryption
+
+
 ## Tech Stack
 
 **Client:** Kotlin, Firebase.
