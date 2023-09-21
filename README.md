@@ -65,3 +65,6 @@ Firebase Security Rules: Firebase security rules are implemented to ensure that 
 
 **Server:** Firebase
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satnam-singh-justcode/)
+
