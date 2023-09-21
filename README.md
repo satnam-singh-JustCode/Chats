@@ -1,5 +1,5 @@
 
-# Chats
+# Chats (Formerly KHAT)
 
 ## End to End chat application
 
