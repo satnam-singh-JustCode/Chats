@@ -37,8 +37,11 @@ Firebase Security Rules: Firebase security rules are implemented to ensure that 
 
 
 ## Demo
-```https://www.linkedin.com/posts/satnam-singh-justcode_lottie-androiddeveloper-androiddevelopment-activity-6894943561654374400-FEda/```
+```https://bit.ly/Satnam-Singh-Chats```
 
+![Logo](https://github.com/satnam-singh-JustCode/Chats/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true)
+
+![Logo](https://github.com/satnam-singh-JustCode/Chats/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true)
 
 
 
@@ -53,7 +56,7 @@ Firebase Security Rules: Firebase security rules are implemented to ensure that 
 ## Features
 
 - dark mode
-- End to End Encryption
+- End-to-end encryption
 
 
 ## Tech Stack
