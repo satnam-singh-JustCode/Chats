@@ -1,6 +1,8 @@
 
 # Chats
 
+## End to End chat application
+
 End-to-End Encrypted Chat Application
 Overview
 This project is an end-to-end encrypted chat application that prioritizes security and privacy. It uses Advanced Encryption Standard (AES) encryption to secure text messages and leverages Firebase for authentication, authorization (via JSON Web Tokens or JWTs), and as a database.
